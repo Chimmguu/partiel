@@ -1,0 +1,56 @@
+.body {
+ 
+  }
+  
+.h1 {
+    text-align: center;
+  }
+
+.navbar{
+background-color: black;
+
+  }
+
+
+.h1{
+ text-align: center;
+ align-items: center;
+  }
+
+  .p{
+    top:0;
+    align-self: center;
+    float: left;
+    height: 300px;
+    width: 400px;
+    align-items: center;
+  }
+
+  .imga{
+    width: 100%;
+  }
+
+  .welcome{
+background-color: blue;
+    text-align: center;
+  }
+
+  .card-img-top{
+    top:0;
+    margin: 15px;
+    align-self: center;
+    float: left;
+    height: 300px;
+    width: 300px;
+  }
+
+  .end{
+    background-color: lightblue;
+    text-align: center;
+    text-transform: inherit;
+  }
+
+  .footer{
+text-align: center;
+background-color: darkblue;
+  }
